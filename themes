@@ -13,8 +13,8 @@ local themes = {
 		-- Tabs Themes
 		offTextBtn = Color3.fromRGB(63, 63, 63),
 		offBgLineBtn = Color3.fromRGB(29, 29, 29),
-		onTextBtn = Color3.fromRGB(78, 34, 197),
-		onBgLineBtn = Color3.fromRGB(78, 34, 197),
+		onTextBtn = Color3.fromRGB(129, 83, 255),
+		onBgLineBtn = Color3.fromRGB(129, 83, 255),
 
 		--#elementsthemes
 
