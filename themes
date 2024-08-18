@@ -19,8 +19,8 @@ local themes = {
 		--#elementsthemes
 
 		-- Toggle
-		toggleborder = Color3.fromRGB(61, 11, 155),
-		togglebg = Color3.fromRGB(18, 11, 123),
+		toggleborder = Color3.fromRGB(135, 80, 236),
+		togglebg = Color3.fromRGB(98, 0, 255),
 
 		-- Slider
 		sliderbar = Color3.fromRGB(21,21,21),
