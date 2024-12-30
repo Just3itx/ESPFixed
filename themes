@@ -45,12 +45,12 @@ local themes = {
 		-- not need ah sigma pro sex master
 	},
 	Christmas = {
-		maincolor = Color3.new(1.000000, 1.000000, 1.000000),
+		maincolor = Color3.new(0.968627, 0.337255, 0.337255),
 		bordercolor = Color3.fromRGB(39, 39, 42),
 		scrollocolor = Color3.fromRGB(28, 28, 30),
 
-		titlecolor = Color3.fromRGB(245, 245, 245),
-		descriptioncolor = Color3.fromRGB(168, 168, 168),
+		titlecolor = Color3.new(1.000000, 1.000000, 1.000000),
+		descriptioncolor = Color3.new(1.000000, 1.000000, 1.000000),
 		elementdescription = Color3.fromRGB(168, 168, 168),
 
 		primarycolor = Color3.new(1.000000, 0.258824, 0.258824),
