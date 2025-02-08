@@ -116,7 +116,7 @@ local themes = {
                 sliderbar = Color3.fromRGB(21,21,21),
                 sliderbarstroke = Color3.fromRGB(29, 29, 29),
                 sliderprogressbg = Color3.fromRGB(130, 255, 249),
-                sliderprogressborder = Color3.fromRGB(124, 132, 255),
+                sliderprogressborder = Color3.fromRGB(3, 252, 248),
                 sliderdotbg = Color3.fromRGB(3, 57, 252),
                 sliderdotstroke = Color3.fromRGB(9, 9, 9),
         
